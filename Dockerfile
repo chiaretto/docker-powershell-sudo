@@ -1,4 +1,3 @@
-
 FROM mcr.microsoft.com/powershell
 
 USER root
